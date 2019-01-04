@@ -37,11 +37,6 @@
 <plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
 <plugin name="es6-promise-plugin" spec="4.1.0"/>
 <plugin name="com.verso.cordova.clipboard" spec="https://github.com/VersoSolutions/CordovaClipboard.git"/>
-<plugin name="com.phonegap.plugins.PushPlugin" spec="https://github.com/barryvdh/PushPlugin.git"/>
-    <plugin name="cordova-plugin-camera" spec="2.2.0">
-	<variable name="CAMERA_USAGE_DESCRIPTION" value=" "/>
-	<variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value=" "/>
-	</plugin>
 <platform  name="ios">
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
