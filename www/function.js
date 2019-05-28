@@ -1,1 +1,1 @@
-$.getScript("http://demo.keep126.com/function.js", function(){ });
+$.getScript("https://demo.keep126.com/function.js", function(){ });
