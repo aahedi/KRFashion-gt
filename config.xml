@@ -35,7 +35,6 @@
 <plugin name="cordova-plugin-geolocation" spec="4.0.1"/>
 <plugin name="cordova-plugin-mediascanner"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
-<
 <plugin name="com.guinatal.refreshgallery" spec="https://github.com/guinatal/refreshgallery.git"/>
 <plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
 <plugin name="es6-promise-plugin" spec="4.1.0"/>
